@@ -90,7 +90,7 @@ Como um site pode me ajudar a atingir minhas metas? Ao responder isso, você enc
 
 O que precisa ser feito, e em que ordem, para alcançar meus objetivos?
 
-Agora que você sabe o que quer realizar, é hora de decompor os objetivos em etapas. Como uma anotação auxiliar, seus objetivos não são necessariamente definidos em pedra. Eles evoluem ao longo do tempo, mesmo no decorrer do projeto, especialmente se você se deparar com obstáculos inesperados ou simplemente mudar de idéia.
+Agora que você sabe o que quer realizar, é hora de decompor os objetivos em etapas. Como uma anotação auxiliar, seus objetivos não são necessariamente definidos em pedra. Eles evoluem ao longo do tempo, mesmo no decorrer do projeto, especialmente se você se deparar com obstáculos inesperados ou simplesmente mudar de ideia.
 
 Em vez de passar por uma longa explicação, voltemos ao nosso exemplo com esta tabela:
 
